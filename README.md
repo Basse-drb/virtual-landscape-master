@@ -31,7 +31,7 @@ Objectifs
 │   ├── main.js
 │   └── modules
 │       ├── AbstractForm.js
-│       ├── Immeuble.js
+│       ├── Building.js
 │       └── Triangle.js
 └── README.md
 ```
